@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "ANALYSIS OF ENTRYLEVEL USER COMPLETION RATE 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "I analysed the user completion rate of Entrylevel, an edtech company. I performed data transformation using SQL, conducted statistical tests using python and built the dashboard using Tableau.",
+    url: "https://public.tableau.com/views/Entryleveldashboard_16859087494450/entrylevel_dashboard?:language=en-US&:display_count=n&:origin=viz_share_link",
   },
   {
-    title: "Web Development for Beginners",
+    title: "THE WORLD UNIVERSITY RANKING ANALYSIS",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Analysed the Times Higher Education's World University ranking dataset to uncover insights. I used PowerBI for data cleaning and visualization while I used python for statistical analysisontributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+    url: "https://app.powerbi.com/view?r=eyJrIjoiMzIxZjE1MTgtMjlhOS00ZjdkLTgwNDYtM2JiZGRkM2M4YzM1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9",
   },
   {
-    title: "My Resume Site",
+    title: "ANALYSIS OF NIGERIA PAST ELECTION",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Analyzed Nigeria's past election data obtained from Wikipedia to gain insight into the country's electoral history. The analysis involved exploring the data, cleaning it, and performing data visualization to communicate the findings..",
+    url: "https://app.powerbi.com/view?r=eyJrIjoiNDkzYjNjZDUtZDJiZC00MzM4LTkxNzktYTkxMDY1ZjM0OTkwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "ANALYSIS OF AFRICAN CHILD MORTALITY",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This project aims to describe the prevalence of under-5 child mortality rates in selected African countries. PowerBI was used to analyze and identify possible causes of high under-5 mortality rates, forecast the trend of under-5 mortality rates from 2020-2025, and recommend possible solutions for mitigating the under-5 mortality rate.",
+    url: "https://app.powerbi.com/view?r=eyJrIjoiNmFhOGM5OGQtYTFhNC00M2JmLWE3MmUtYzg0NGUzMTYwMzJhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9",
   },
 ];
 
